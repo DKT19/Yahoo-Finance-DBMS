@@ -1,7 +1,7 @@
-#Stocks DBMS
+# Stocks DBMS
 Yahoo Finance web scraper and database management
 
-##Usage
+## Usage
 
 Run web scraper with input stock symbols
 
